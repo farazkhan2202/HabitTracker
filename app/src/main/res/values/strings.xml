@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">HabitTracker</string>
+    <string name="unit_type">Unit type</string>
+    <string name="title_hint">Habit title</string>
+    <string name="description_hint">Habit description</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_habit">Add habit</string>
+    <string name="add_change">Add change</string>
+    <string name="help">Help</string>
+
+    <string name="empty_title_error">Title must not be empty</string>
+    <string name="title_already_exists_error">Habit with this title already exists</string>
+
+    <string name="history">History</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <string name="title_label">Title</string>
+    <string name="description_label">Description</string>
+    <string name="unit_set_label">Unit set</string>
+    <string name="units_label">Units</string>
+
+    <string name="unit_set_examples">Examples</string>
+    <string name="unit_set_warning">Warning: you will not be able to change unit set after creation.</string>
+
+    <string name="no_habits_placeholder">You have no habits yet. Use the + menu item to add a new habit.</string>
+    <string name="no_changes_placeholder">You have no changes yet.</string>
+    <string name="empty_fragment_placeholder">Click on a habit to see details or click + menu button to add a habit.</string>
+
+    <string name="invalid_value_error">Invalid value</string>
+
+    <string name="change_added">Progress added</string>
+    <string name="add_progress">Add progress</string>
+    <string name="progress_chart">Progress chart</string>
+    <string name="change_total">Total progress: %1$.1f %2$s</string>
+</resources>

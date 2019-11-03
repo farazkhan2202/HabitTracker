@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="habit_item_height">60dp</dimen>
+    <dimen name="habit_item_corner_radius">30dp</dimen>
+
+    <dimen name="habit_item_margin_side">4dp</dimen>
+    <dimen name="habit_item_margin_top">4dp</dimen>
+
+    <dimen name="indicator_view_size">20dp</dimen>
+
+    <dimen name="add_change_button_size">35dp</dimen>
+
+    <dimen name="habit_item_padding_start">20dp</dimen>
+    <dimen name="habit_item_padding_end">10dp</dimen>
+
+    <dimen name="separator_margin_side">10dp</dimen>
+    <dimen name="separator_margin_top_bottom">4dp</dimen>
+
+    <dimen name="spinner_item_text_size">18sp</dimen>
+    <dimen name="spinner_dropdown_item_text_size">22sp</dimen>
+    <dimen name="spinner_dropdown_item_padding_horizontal">4dp</dimen>
+    <dimen name="spinner_dropdown_item_padding_top">4dp</dimen>
+
+    <dimen name="add_habit_label_size">15sp</dimen>
+    <dimen name="add_habit_edit_text_size">20sp</dimen>
+    <dimen name="add_habit_unit_text_size">15sp</dimen>
+    <dimen name="add_habit_padding">10dp</dimen>
+    <dimen name="add_habit_category_margin">8dp</dimen>
+
+    <dimen name="details_padding">10dp</dimen>
+    <dimen name="details_category_margin">8dp</dimen>
+    <dimen name="details_label_size">15sp</dimen>
+    <dimen name="details_edit_text_size">20sp</dimen>
+    <dimen name="details_unit_text_size">20sp</dimen>
+
+    <dimen name="history_padding">10dp</dimen>
+    <dimen name="history_category_margin">8dp</dimen>
+    <dimen name="history_total_text_size">15sp</dimen>
+
+    <dimen name="change_item_margin_top">4dp</dimen>
+    <dimen name="change_item_margin_side">10dp</dimen>
+</resources>
